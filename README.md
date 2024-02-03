@@ -36,9 +36,13 @@ Enhance the search functionality with advanced filters, sorting options, and a m
 
 # HOW THE APPLICATION WORKS
 The user of this react application is able to view all the products. The application has the following workflow,
+
 1.Login/register functionality.
+
 2.Once the user is authenticated
+
 3.Users can add the products to the cart page
+
 4.Also user can add their favourite products
 
 
