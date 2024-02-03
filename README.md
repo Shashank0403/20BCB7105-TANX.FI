@@ -25,13 +25,10 @@ Users can proceed to checkout from the cart page.
 
 # What would you do differently if you were allocated more time?
 
-Third Party Payment Integration and Authentication
-
-Integrate a live chat support system for immediate assistance, improving customer service and addressing queries in real-time.
-
-Develop a comprehensive analytics dashboard that provides detailed insights into user behavior, sales trends, and website performance, aiding in strategic decision-making.
-
-Enhance the search functionality with advanced filters, sorting options, and a more intuitive navigation system to help users find products quickly.
+-Third Party Payment Integration and Authentication
+-Integrate a live chat support system for immediate assistance, improving customer service and addressing queries in real-time.
+-Develop a comprehensive analytics dashboard that provides detailed insights into user behavior, sales trends, and website performance, aiding in strategic decision-making.
+-Enhance the search functionality with advanced filters, sorting options, and a more intuitive navigation system to help users find products quickly.
 
 
 # HOW THE APPLICATION WORKS
