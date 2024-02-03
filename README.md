@@ -2,8 +2,8 @@
 
 # APPLICATION FUNCTIONALITIES
 
-Login/Register Functionality:
-Users can create a new account by providing necessary information such as username, email, and password.
+*Login/Register Functionality:
+*Users can create a new account by providing necessary information such as username, email, and password.
 Existing users can log in using their credentials.
 
 Authentication:
