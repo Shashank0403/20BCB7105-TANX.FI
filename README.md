@@ -67,14 +67,11 @@ The user of this react application is able to view all the products. The applica
 # CHECKOUT PAGE
 ![image](https://github.com/Shashank0403/20BCB7105-TANX.FI/assets/134396460/7e8de1f4-6ec4-4a0f-9312-7ae19b666cce)
 
-# API Usage
-API can be launched using npm run server.
 
--Endpoint	Result
--/users ->	Lists all available users
--/products ->	Lists all available products
--/orders ->	Lists all available orders
--/favourites ->	Lists all available favourites
+# DEMO VIDEO
+
+https://github.com/Shashank0403/20BCB7105-TANX.FI/assets/134396460/bdf2ed2c-4285-472b-b6ae-6fd1b3e24058
+
 
 
 
