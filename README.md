@@ -1,5 +1,7 @@
 # Ecommerce (React) Coding Assessment
 
+# SHASHANK CHOWDARY - 20BCB7105
+
 # APPLICATION FUNCTIONALITIES
 
 Login/Register Functionality:
